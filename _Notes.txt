@@ -1,0 +1,11 @@
+【課後學習參考】
+
+
+【Modern Web 2015】D3.js 圖表優化二三事 - 許國政Kuro Hsu
+https://www.youtube.com/watch?v=mEkWpwXE6oo
+
+許國政Kuro Hsu -- 「D3.js 資料視覺化入門」教學投影片
+https://www.slideshare.net/kurotanshi/d3js-56389560
+
+範例程式下載:
+https://github.com/kurotanshi/d3js-samples
